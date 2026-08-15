@@ -1,0 +1,43 @@
+# 📘 Módulo 1 — Fundamentos de Python
+
+## Trilha sugerida (semana a semana)
+
+**Semana 1 — Fundamentos**
+- O que é uma variável, tipos de dado (texto, número, booleano)
+- Operadores (`+ - * / ==  and or not`)
+- `input()` e `print()`
+
+**Semana 2 — Decisões e repetição**
+- `if / elif / else`
+- `for` e `while`
+- Exercício: um programa que decide algo (ex: classificar idade em faixas)
+
+**Semana 3 — Estruturas de dados**
+- Listas, tuplas, dicionários
+- Fatiamento (`slice`) e métodos comuns (`.append`, `.sort`, `.get`)
+
+**Semana 4 — Funções e organização**
+- Criar funções, parâmetros, retorno
+- Organizar código em mais de um arquivo (`import`)
+
+**Semana 5 — Consolidação**
+- Tratamento de erros (`try/except`)
+- Ler e escrever arquivos (`.txt`, `.csv`)
+- Mini-projeto de fechamento (veja `04-projetos-praticos`)
+
+## Recursos gratuitos recomendados (em português)
+- **Curso em Vídeo — Python** (Gustavo Guanabara, YouTube): referência clássica em didática para quem nunca programou.
+- **Documentação oficial**: https://docs.python.org/pt-br/3/tutorial/
+- **freeCodeCamp** (tem módulos traduzíveis): https://www.freecodecamp.org/
+- Pratique em **https://www.codewars.com/** ou **https://leetcode.com/** nos níveis mais fáceis, sem pressa.
+
+## Como praticar aqui no repositório
+Crie um arquivo por exercício, nomeado assim:
+```
+01-fundamentos-python/
+  dia01_variaveis.py
+  dia02_condicionais.py
+  dia03_loops.py
+  ...
+```
+No topo de cada arquivo, escreva em comentário o que o exercício pede — isso ajuda a revisar depois e mostra seu raciocínio para quem olhar seu repositório (recrutadores olham isso!).
